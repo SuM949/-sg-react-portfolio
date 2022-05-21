@@ -1,0 +1,10 @@
+.app{
+    height: 100vh;
+    .section{
+        width: 100%;
+        height: calc(100vh - 70px);
+        background-color: rgb(114, 32, 89);
+        position: relative;
+        top: 70px;
+    }
+}
