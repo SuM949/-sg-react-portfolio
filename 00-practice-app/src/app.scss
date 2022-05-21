@@ -3,8 +3,13 @@
     .section{
         width: 100%;
         height: calc(100vh - 70px);
-        background-color: rgb(114, 32, 89);
+        background-color: rgba(25, 120, 76, 0.337);
         position: relative;
         top: 70px;
+
+        >*{
+            width: 100vw;
+            height: calc(100vh - 70px);
+        }
     }
 }
