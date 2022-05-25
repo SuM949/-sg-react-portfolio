@@ -1,0 +1,13 @@
+#aboutMe p {
+    width: 40%
+}
+
+@media screen and (max-width: 768px) {
+    #aboutMe {
+        flex-direction: column;
+    }
+
+    #aboutMe p {
+        width: 90%
+    }
+}
