@@ -25,7 +25,7 @@ const workArray = [
   {
     title: "Weight A Minute",
     description:
-      "This is gym note taker ",
+      "gym application that allows users to create a unique gym routine and have a saved record of their unique workouts.",
     videoFile: bootcampersVideo,
     gitUrl: "https://github.com/SuM949/Weight-A-Minute",
     deployedUrl: "https://whispering-caverns-47180.herokuapp.com/signUp",

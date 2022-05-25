@@ -48,8 +48,8 @@ function Footer() {
           <img className="logo" src={gitHubLogo} />
         </a>
         <a
-          href="https://www.linkedin.com/in/sumaya-gure-89625a11a/"
-          target="_blank"
+        href="https://www.linkedin.com/in/sumaya-gure-89625a11a/"
+        target="_blank"
         >
           <img className="logo" src={linkedInLogo} />
         </a>
