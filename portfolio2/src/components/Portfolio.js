@@ -39,28 +39,28 @@ const workArray = [
     deployedUrl: "https://arcane-eyrie-88636.herokuapp.com/",
   },
   {
-    title: "JavaScript Quiz",
+    title: "E-Commerce Back End ORM",
     description:
-      "Short, fun quiz on the fundamentals of JavaScript. Powered by JavaScript.",
+      "A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.",
     videoFile: quizVideo,
-    gitUrl: "https://github.com/BGrowcott/bg-magical-js-quiz",
-    deployedUrl: "https://bgrowcott.github.io/bg-magical-js-quiz/",
+    gitUrl: "https://github.com/SuM949/E-Commerce-Back-End-ORM",
+    deployedUrl: "https://drive.google.com/file/d/1CnNAOFf4JGzC4yOYphVrxdwyVXJ5NqjY/view",
   },
   {
-    title: "Birmingham Association Banquets",
+    title: "Where are We?",
     description:
-      "Restaurant finder application - search any city or postcode to find nearby restaurants.",
+      "The is a GAME to test your geography knowledge.",
     videoFile: babVideo,
-    gitUrl: "https://github.com/oli-drew/bab-group-project-by-slackware",
-    deployedUrl: "https://oli-drew.github.io/bab-group-project-by-slackware/",
+    gitUrl: "https://github.com/SuM949/Where-are-we",
+    deployedUrl: "https://gmadnani.github.io/Where-are-we/",
   },
   {
-    title: "Sun or Showers",
+    title: "Great Weather Dashboard",
     description:
-      "A Weather app - search any city worldwide for a 5 day forecast - uses OpenWeather API",
+      "With this app you can search for the current weather and 5-day forecast of any city you desire.",
     videoFile: sunOrShowersVid,
-    gitUrl: "https://github.com/BGrowcott/bg-sun-or-showers",
-    deployedUrl: "https://bgrowcott.github.io/bg-sun-or-showers/",
+    gitUrl: "https://github.com/SuM949/Great-Weather-Dashboard",
+    deployedUrl: "https://sum949.github.io/Great-Weather-Dashboard/",
   },
 ];
 

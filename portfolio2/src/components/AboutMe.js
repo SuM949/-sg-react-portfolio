@@ -18,7 +18,7 @@ const styles = {
         boxShadow: 'inset 0px 0px 10px black',
         padding: '25px',
         borderRadius: '15px',
-        backgroundColor: 'whitesmoke',
+        backgroundColor: 'pink',
     },
     backGroundImage: {
         width: '300px',
@@ -28,7 +28,7 @@ const styles = {
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
         borderRadius: '150px',
-        boxShadow: 'inset 0px 0px 10px black',
+        boxShadow: 'inset 0px 0px 10px pink',
     }
 }
 
